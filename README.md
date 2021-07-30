@@ -2,7 +2,7 @@
 <img height="400px" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 </div>
 
-### 👋 Hi, I’m @hammamimongi 👨🏻‍💻👨🏻‍💻
+### <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif"> Hi, I’m @hammamimongi 👨🏻‍💻👨🏻‍💻
 ### 👀 I’m interested in 
 - web development & graphic design
 ### 🌱 i'm currently learning 
