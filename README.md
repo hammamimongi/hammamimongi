@@ -35,7 +35,8 @@
 <img src="https://img.icons8.com/color/50/000000/oracle-logo.png"/>
 <img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
 <img src="https://img.icons8.com/color/50/000000/symfony.png"/>
-<img src="https://img.icons8.com/material-rounded/50/000000/github.png"/><img src="https://img.icons8.com/color-glass/48/000000/adobe-illustrator.png"/>
+<img src="https://img.icons8.com/material-outlined/50/ffffff/github.png"/>
+ <img src="https://img.icons8.com/color-glass/50/000000/adobe-illustrator.png"/>
 <img src="https://img.icons8.com/color-glass/50/000000/adobe-photoshop.png"/>
 <img src="https://img.icons8.com/cute-clipart/50/000000/adobe-xd.png"/>
 <img src="https://img.icons8.com/fluency/50/000000/adobe-after-effects.png"/>
