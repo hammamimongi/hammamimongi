@@ -2,7 +2,7 @@
 <img height="400px" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 </div>
 
-- 👋 Hi, I’m @hammamimongi
+### 👋 Hi, I’m @hammamimongi 👨🏻‍💻👨🏻‍💻
 ### 👀 I’m interested in 
 - web development & graphic design
 ### 🌱 i'm currently learning 
