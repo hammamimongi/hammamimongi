@@ -24,6 +24,7 @@
 <hr>
 
 ### languages and tools  :
+### FrontEnd & BackEnd  :
 
 <div align="center">
 <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v2.png"/>
@@ -42,12 +43,12 @@
 <img src="https://img.icons8.com/office/16/000000/api-settings.png"/>
 <img src="https://img.icons8.com/material-outlined/50/000000/github.png"/>
  <hr>
+ ### graphic : ...
  <img src="https://img.icons8.com/color-glass/50/000000/adobe-illustrator.png"/>
 <img src="https://img.icons8.com/color-glass/50/000000/adobe-photoshop.png"/>
 <img src="https://img.icons8.com/cute-clipart/50/000000/adobe-xd.png"/>
 <img src="https://img.icons8.com/fluency/50/000000/adobe-after-effects.png"/>
-<img src="https://img.icons8.com/fluency/50/000000/adobe-premiere-pro.png"/>
-<img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/fluency/50/000000/adobe-premiere-pro.png"/>=
 </div>
 <!---
 hammamimongi/hammamimongi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
