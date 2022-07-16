@@ -45,7 +45,6 @@
  <img src="https://img.icons8.com/color/50/000000/oracle-logo.png"/>
  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
  <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
- <img src="https://img.icons8.com/material-outlined/50/000000/github.png"/>
 </div>
 ### Graphic
  <div align="center">
