@@ -28,6 +28,7 @@
 <div align="center">
 <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v2.png"/>
 <img src="https://img.icons8.com/color/50/000000/php.png"/>
+ <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 <img src="https://img.icons8.com/color/50/000000/symfony.png"/>
 <img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>
 <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
@@ -36,7 +37,11 @@
 <img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
 <img src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/50/000000/oracle-logo.png"/>
+ <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
+<img src="https://img.icons8.com/office/16/000000/api-settings.png"/>
 <img src="https://img.icons8.com/material-outlined/50/000000/github.png"/>
+ <hr>
  <img src="https://img.icons8.com/color-glass/50/000000/adobe-illustrator.png"/>
 <img src="https://img.icons8.com/color-glass/50/000000/adobe-photoshop.png"/>
 <img src="https://img.icons8.com/cute-clipart/50/000000/adobe-xd.png"/>
