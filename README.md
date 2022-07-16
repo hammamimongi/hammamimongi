@@ -4,14 +4,13 @@
 
 ### <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="30px"> Hi, I’m @hammamimongi 👨🏻‍💻👨🏻‍💻
 ### 👀 I’m interested in 
-- web development & graphic design
+- web development, Technology & graphic design
 ### 🌱 i'm currently learning 
-- web development in "  Ecole Supérieure Privée d'Ingénierie et de Technologies ESPRIT " 
+- Software Architecture Engineering Student in "  Ecole Supérieure Privée d'Ingénierie et de Technologies ESPRIT " 
 
 ### 💞️ I’m looking to collaborate on 
 -  other content github Code Example
-- DataScientests , Engineers ... 
- 
+- web development, DataScientests , Engineers ... 
 
 
 ### 📫 How to reach me ...
@@ -40,7 +39,7 @@
  <img src="https://img.icons8.com/color/50/000000/css3.png"/
  <img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
 </div>
-### FrontEnd  :
+### FrontEnd
 <div align="center">
  <img src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>
  <img src="https://img.icons8.com/color/50/000000/oracle-logo.png"/>
@@ -48,7 +47,7 @@
  <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
  <img src="https://img.icons8.com/material-outlined/50/000000/github.png"/>
 </div>
- ### graphic   :
+### Graphic
  <div align="center">
  <img src="https://img.icons8.com/color-glass/50/000000/adobe-illustrator.png"/>
 <img src="https://img.icons8.com/color-glass/50/000000/adobe-photoshop.png"/>
