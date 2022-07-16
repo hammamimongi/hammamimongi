@@ -48,7 +48,7 @@
  <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
  <img src="https://img.icons8.com/material-outlined/50/000000/github.png"/>
 </div>
- ### graphic
+ ### graphic   :
  <div align="center">
  <img src="https://img.icons8.com/color-glass/50/000000/adobe-illustrator.png"/>
 <img src="https://img.icons8.com/color-glass/50/000000/adobe-photoshop.png"/>
