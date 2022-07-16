@@ -33,11 +33,11 @@
  </div>
  ### FrontEnd & BackEnd  :
 <div align="center">
- <img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>
  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+ <img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
  <img src="https://img.icons8.com/color/50/000000/html-5.png"/>
  <img src="https://img.icons8.com/color/50/000000/css3.png"/
- <img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
+ <img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>
 </div>
 ### FrontEnd
 <div align="center">
@@ -55,7 +55,3 @@
 <img src="https://img.icons8.com/fluency/50/000000/adobe-after-effects.png"/>
 <img src="https://img.icons8.com/fluency/50/000000/adobe-premiere-pro.png"/>
 </div>
-<!---
-hammamimongi/hammamimongi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
